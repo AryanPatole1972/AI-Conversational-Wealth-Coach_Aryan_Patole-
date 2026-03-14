@@ -1,0 +1,10 @@
+{
+  "id": "risk-return-101",
+  "title": "Understanding Risk and Return",
+  "topic": "risk-return",
+  "difficultyLevel": "beginner",
+  "content": "In investing, risk and return are two sides of the same coin. Generally, the potential for higher returns comes with higher risk, and lower-risk investments typically offer lower returns.\n\n**The Risk-Return Tradeoff:**\nThink of it like a seesaw - as one side goes up, the other tends to go down. You can't have high returns without accepting some level of risk, and you can't eliminate all risk without accepting lower returns.\n\n**Types of Risk:**\n1. **Market Risk:** Overall market movements affect your investments\n2. **Company Risk:** Specific to individual companies (bankruptcy, poor management)\n3. **Inflation Risk:** Your returns don't keep pace with rising prices\n4. **Liquidity Risk:** Difficulty selling an investment when you need to\n5. **Interest Rate Risk:** Changes in interest rates affect investment values\n\n**Risk Levels by Asset Class:**\n- **Low Risk:** Fixed deposits, government bonds (returns: 4-7%)\n- **Medium Risk:** Corporate bonds, balanced mutual funds (returns: 6-10%)\n- **High Risk:** Stocks, equity mutual funds (returns: 10-15%+)\n\n**Your Risk Tolerance:**\nThis depends on:\n- Your age (younger = can take more risk)\n- Financial goals and timeline\n- Income stability\n- Emotional comfort with volatility\n- Financial cushion (emergency fund)\n\n**Key Takeaway:**\nThere's no 'right' level of risk - it's about finding what matches your goals, timeline, and comfort level. A balanced approach often works best for most investors.",
+  "relatedTopics": ["diversification", "time-horizon"],
+  "keywords": ["risk", "return", "volatility", "risk tolerance", "risk-return tradeoff"],
+  "lastUpdated": "2024-01-15T00:00:00.000Z"
+}

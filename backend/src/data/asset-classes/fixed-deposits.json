@@ -1,0 +1,34 @@
+{
+  "name": "Fixed Deposits",
+  "description": "A savings product offered by banks where you deposit money for a fixed period at a predetermined interest rate, providing guaranteed returns.",
+  "riskLevel": "low",
+  "liquidity": "low",
+  "typicalReturnRange": {
+    "min": 5,
+    "max": 7
+  },
+  "timeHorizon": "1-5 years",
+  "advantages": [
+    "Guaranteed returns with fixed interest rate",
+    "Very low risk - principal amount is secure",
+    "Deposit insurance protection (up to certain limits)",
+    "Predictable income stream",
+    "No market volatility exposure",
+    "Simple and easy to understand"
+  ],
+  "disadvantages": [
+    "Lower returns compared to market-linked investments",
+    "Money locked in for the tenure - early withdrawal penalties apply",
+    "Returns may not beat inflation over long term",
+    "Interest income is taxable",
+    "No potential for capital appreciation",
+    "Opportunity cost if market rates rise"
+  ],
+  "examples": [
+    "Bank fixed deposits",
+    "Corporate fixed deposits",
+    "Tax-saving fixed deposits (with lock-in period)",
+    "Cumulative FDs (interest compounded and paid at maturity)",
+    "Non-cumulative FDs (regular interest payouts)"
+  ]
+}

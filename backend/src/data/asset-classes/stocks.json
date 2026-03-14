@@ -1,0 +1,34 @@
+{
+  "name": "Stocks",
+  "description": "Ownership shares in publicly traded companies that can be bought and sold on stock exchanges, offering potential for capital appreciation and dividends.",
+  "riskLevel": "high",
+  "liquidity": "high",
+  "typicalReturnRange": {
+    "min": 10,
+    "max": 15
+  },
+  "timeHorizon": "5+ years for long-term investing",
+  "advantages": [
+    "Highest potential returns among major asset classes",
+    "Ownership stake in companies with voting rights",
+    "Dividend income in addition to capital gains",
+    "High liquidity - can be sold quickly during market hours",
+    "Inflation hedge over long term",
+    "Flexibility to choose individual companies"
+  ],
+  "disadvantages": [
+    "High volatility and price fluctuations",
+    "Risk of losing principal investment",
+    "Requires research and market knowledge",
+    "Emotional stress during market downturns",
+    "Transaction costs and taxes on gains",
+    "Company-specific risks (bankruptcy, poor management)"
+  ],
+  "examples": [
+    "Large-cap stocks (established, stable companies)",
+    "Mid-cap stocks (growing companies with moderate risk)",
+    "Small-cap stocks (smaller companies with higher growth potential)",
+    "Blue-chip stocks (well-established, financially sound companies)",
+    "Growth stocks vs. value stocks"
+  ]
+}

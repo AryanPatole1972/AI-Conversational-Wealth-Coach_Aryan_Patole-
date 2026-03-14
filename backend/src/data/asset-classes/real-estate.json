@@ -1,0 +1,35 @@
+{
+  "name": "Real Estate",
+  "description": "Physical property investments including residential, commercial, or land, offering potential for rental income and property value appreciation.",
+  "riskLevel": "medium",
+  "liquidity": "low",
+  "typicalReturnRange": {
+    "min": 6,
+    "max": 10
+  },
+  "timeHorizon": "5-10+ years",
+  "advantages": [
+    "Tangible asset with intrinsic value",
+    "Rental income provides regular cash flow",
+    "Property appreciation over long term",
+    "Inflation hedge - rents and values typically rise with inflation",
+    "Tax benefits on mortgage interest and depreciation",
+    "Leverage opportunity through mortgages"
+  ],
+  "disadvantages": [
+    "Very low liquidity - takes time to sell",
+    "High initial capital requirement",
+    "Ongoing maintenance and management costs",
+    "Property taxes and insurance expenses",
+    "Market risk - property values can decline",
+    "Geographic concentration risk",
+    "Tenant and vacancy risks for rental properties"
+  ],
+  "examples": [
+    "Residential properties (houses, apartments)",
+    "Commercial real estate (offices, retail spaces)",
+    "Real Estate Investment Trusts (REITs)",
+    "Land investments",
+    "Rental properties for passive income"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Mutual Funds",
+  "description": "Professionally managed investment pools that collect money from multiple investors to purchase a diversified portfolio of stocks, bonds, or other securities.",
+  "riskLevel": "medium",
+  "liquidity": "high",
+  "typicalReturnRange": {
+    "min": 8,
+    "max": 12
+  },
+  "timeHorizon": "3-5 years or longer",
+  "advantages": [
+    "Professional management by experienced fund managers",
+    "Instant diversification across multiple securities",
+    "Relatively easy to buy and sell",
+    "Lower minimum investment compared to direct stock purchases",
+    "Regulated by financial authorities for investor protection"
+  ],
+  "disadvantages": [
+    "Management fees and expense ratios reduce returns",
+    "No control over individual investment decisions",
+    "Returns not guaranteed and subject to market volatility",
+    "Tax implications on capital gains distributions",
+    "Past performance doesn't guarantee future results"
+  ],
+  "examples": [
+    "Equity mutual funds (invest primarily in stocks)",
+    "Debt mutual funds (invest in bonds and fixed-income securities)",
+    "Balanced funds (mix of stocks and bonds)",
+    "Index funds (track specific market indices)"
+  ]
+}

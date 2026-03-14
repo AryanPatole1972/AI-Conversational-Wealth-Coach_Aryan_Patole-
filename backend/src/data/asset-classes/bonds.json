@@ -1,0 +1,34 @@
+{
+  "name": "Bonds",
+  "description": "Debt securities where you lend money to governments or corporations in exchange for regular interest payments and return of principal at maturity.",
+  "riskLevel": "low",
+  "liquidity": "medium",
+  "typicalReturnRange": {
+    "min": 4,
+    "max": 8
+  },
+  "timeHorizon": "1-10 years depending on bond maturity",
+  "advantages": [
+    "Regular, predictable interest income",
+    "Lower risk than stocks",
+    "Priority over stockholders in case of bankruptcy",
+    "Portfolio diversification benefits",
+    "Government bonds are very safe",
+    "Can be traded before maturity"
+  ],
+  "disadvantages": [
+    "Lower returns compared to stocks over long term",
+    "Interest rate risk - bond prices fall when rates rise",
+    "Credit risk - issuer may default on payments",
+    "Inflation can erode purchasing power of fixed payments",
+    "Less liquid than stocks in some cases",
+    "Complexity in understanding bond pricing and yields"
+  ],
+  "examples": [
+    "Government bonds (treasury bonds, municipal bonds)",
+    "Corporate bonds (issued by companies)",
+    "High-yield bonds (higher risk, higher return)",
+    "Inflation-protected bonds",
+    "Short-term vs. long-term bonds"
+  ]
+}
